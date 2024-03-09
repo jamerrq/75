@@ -3,8 +3,9 @@
 Ace Coding Interview with 75 Qs
 
 My solutions to the 75 LeetCode track. I will be adding more as I solve them.
+Some explanations coming soon.
 
-![progress-bar](https://progress-bar.dev/41/?title=done&width=400)
+![progress-bar](https://progress-bar.dev/44/?title=done&width=400)
 
 ![Python3](./lib/badges/python.svg)
 ![JavaScript](./lib/badges/js.svg)
@@ -86,5 +87,14 @@ My solutions to the 75 LeetCode track. I will be adding more as I solve them.
 
 ## Binary Search Tree (1/2)
 
+![progress-bar](https://progress-bar.dev/50/?title=done&width=400)
+
 - [X] [700. Search in a Binary Search Tree](./src/binary-search-tree/700/solution.py)
 - [ ] [450. Delete Node in a BST]
+
+## Binary Tree - BFS (1/2)
+
+![progress-bar](https://progress-bar.dev/100/?title=done&width=400)
+
+- [X] [199. Binary Tree Right Side View](./src/binary-tree-bfs/199/solution.py)
+- [X] [1161. Maximum Level Sum of a Binary Tree](./src/binary-tree-bfs/1161/solution.py)
