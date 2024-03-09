@@ -92,9 +92,15 @@ Some explanations coming soon.
 - [X] [700. Search in a Binary Search Tree](./src/binary-search-tree/700/solution.py)
 - [ ] [450. Delete Node in a BST]
 
-## Binary Tree - BFS (1/2)
+## Binary Tree - BFS (2/2)
 
 ![progress-bar](https://progress-bar.dev/100/?title=done&width=400)
 
 - [X] [199. Binary Tree Right Side View](./src/binary-tree-bfs/199/solution.py)
 - [X] [1161. Maximum Level Sum of a Binary Tree](./src/binary-tree-bfs/1161/solution.py)
+
+## Binary Search (1/4)
+
+![progress-bar](https://progress-bar.dev/25/?title=done&width=400)
+
+- [X] [374. Guess Number Higher or Lower](./src/binary-search/374/solution.py)
