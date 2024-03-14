@@ -10,7 +10,7 @@ Ace Coding Interview with 75 Qs
 My solutions to the 75 LeetCode track. I will be adding more as I solve them.
 Some explanations coming soon.
 
-![progress-bar](https://progress-bar.dev/51/?title=done%20%2838%2F75%29%0A&width=380)
+![progress-bar](https://progress-bar.dev/63/?title=done%20%2847%2F75%29%0A&width=380)
 
 ![Python3](./lib/badges/python.svg)
 ![JavaScript](./lib/badges/js.svg)
@@ -101,13 +101,6 @@ Some explanations coming soon.
 <!-- - [ ] [1372. Longest ZigZag Path in a Binary Tree] -->
 - [X] [236. Lowest Common Ancestor of a Binary Tree](./src/binary-tree-dfs/236/solution.py)
 
-## Binary Search Tree (1/2)
-
-![progress-bar](https://progress-bar.dev/50/?title=done&width=400)
-
-- [X] [700. Search in a Binary Search Tree](./src/binary-search-tree/700/solution.py)
-<!-- - [ ] [450. Delete Node in a BST] -->
-
 ## Binary Tree - BFS (2/2)
 
 ![progress-bar](https://progress-bar.dev/100/?title=done&width=400)
@@ -115,8 +108,38 @@ Some explanations coming soon.
 - [X] [199. Binary Tree Right Side View](./src/binary-tree-bfs/199/solution.py)
 - [X] [1161. Maximum Level Sum of a Binary Tree](./src/binary-tree-bfs/1161/solution.py)
 
-## Binary Search (1/4)
+## Binary Search Tree (1/2)
+
+![progress-bar](https://progress-bar.dev/50/?title=done&width=400)
+
+- [X] [700. Search in a Binary Search Tree](./src/binary-search-tree/700/solution.py)
+<!-- - [ ] [450. Delete Node in a BST] -->
+
+## Graphs - DFS (1/4)
+
+![progress-bar](https://progress-bar.dev/25/?title=done&width=400)
+
+- [X] [841. Keys and Rooms](./src/graphs-dfs/841/solution.py)
+
+## Heap/Priority Queue (2/4)
+
+- [X] [215. Kth Largest Element in an Array](./src/heap-priority-queue/215/solution.py)
+- [X] [2336. Smallest Number in Infinite Set](./src/heap-priority-queue/2336/solution.py)
+
+## Binary Search (2/4)
 
 ![progress-bar](https://progress-bar.dev/25/?title=done&width=400)
 
 - [X] [374. Guess Number Higher or Lower](./src/binary-search/374/solution.py)
+- [X] [162. Find Peak Element](./src/binary-search/162/solution.py)
+
+## DP - 1D (3/4)
+
+- [X] [1137. N-th Tribonacci Number](./src/dp-1d/1137/solution.py)
+- [X] [746. Min Cost Climbing Stairs](./src/dp-1d/746/solution.py)
+- [X] [198. House Robber](./src/dp-1d/198/solution.py)
+
+## Bit Manipulation (2/3)
+
+- [X] [338. Counting Bits](./src/bit-manipulation/338/solution.py)
+- [X] [136. Single Number](./src/bit-manipulation/136/solution.py)
