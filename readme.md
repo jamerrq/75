@@ -7,7 +7,7 @@ Ace Coding Interview with 75 Qs
 My solutions to the 75 LeetCode track. I will be adding more as I solve them.
 Some explanations coming soon.
 
-![progress-bar](https://progress-bar.dev/65/?title=done%20%2849%2F75%29%0A&width=380)
+![progress-bar](https://progress-bar.dev/68/?title=done%20%2851%2F75%29%0A&width=380)
 
 ![Python3](./lib/badges/python.svg)
 ![JavaScript](./lib/badges/js.svg)
@@ -15,9 +15,14 @@ Some explanations coming soon.
 
 </div>
 
+<details>
+<summary>
+
 ## Array/String (9/9)
 
 ![progress-bar](https://progress-bar.dev/100/?title=done&width=400)
+
+</summary>
 
 - [X] [1768. Merge Strings Alternately](./src/array-string/1768/solution.py)
 - [X] [1071. Greatest Common Divisor of Strings](./src/array-string/1071/solution.py)
@@ -29,67 +34,131 @@ Some explanations coming soon.
 - [X] [334. Increasing Triplet Subsequence](./src/array-string/334/solution.py)
 - [X] [443. String Compression](./src/array-string/443/solution.py)
 
+</details>
+
+<details>
+
+<summary>
+
 ## Two Pointers (4/4)
 
 ![progress-bar](https://progress-bar.dev/100/?title=done&width=400)
+
+</summary>
 
 - [X] [283. Move Zeroes](./src/two-pointers/283/solution.py)
 - [X] [392. Is Subsequence](./src/two-pointers/392/solution.py)
 - [X] [11. Container With Most Water](./src/two-pointers/11/solution.py)
 - [X] [1679. Max Number of K-Sum Pairs](./src/two-pointers/1679/solution.py)
 
+</details>
+
+<details>
+
+<summary>
+
 ## Sliding Window (3/4)
 
 ![progress-bar](https://progress-bar.dev/75/?title=done&width=400)
+
+</summary>
 
 - [X] [643. Maximum Average Subarray I](./src/sliding-window/643/solution.py)
 - [X] [1456. Maximum Number of Vowels in a Substring of Given Length](./src/sliding-window/1456/solution.py)
 <!-- - [ ] [1004. Max Consecutive Ones III](./src/sliding-window/1004/solution.py) -->
 - [X] [1493. Longest Subarray of 1's After Deleting One Element](./src/sliding-window/1493/solution.py)
 
+</details>
+
+<details>
+
+<summary>
+
 ## Prefix Sum (2/2)
 
 ![progress-bar](https://progress-bar.dev/100/?title=done&width=400)
 
+</summary>
+
 - [X] [1732. Find the Highest Altitude](./src/prefix-sum/1732/solution.py)
 - [X] [724. Find Pivot Index](./src/prefix-sum/724/solution.py)
+
+</details>
+
+<details>
+
+<summary>
 
 ## Hash Map / Set (4/4)
 
 ![progress-bar](https://progress-bar.dev/100/?title=done&width=400)
+
+</summary>
 
 - [X] [2215. Find the Difference of Two Arrays](./src/hash-map-set/2215/solution.py)
 - [X] [1207. Unique Number of Occurrences](./src/hash-map-set/1207/solution.py)
 - [X] [1657. Determine if Two Strings Are Close](./src/hash-map-set/1657/solution.py)
 - [X] [2352. Equal Row and Column Pairs](./src/hash-map-set/2352/solution.py)
 
+</details>
+
+<details>
+
+<summary>
+
 ## Stack (3/3)
 
 ![progress-bar](https://progress-bar.dev/100/?title=done&width=400)
+
+</summary>
 
 - [X] [2390. Removing Stars From a String](./src/stack/2390/solution.py)
 - [X] [735. Asteroid Collision](./src/stack/735/solution.py)
 - [X] [394. Decode String](./src/stack/394/solution.js)
 
+</details>
+
+<details>
+
+<summary>
+
 ## Queue (1/2)
 
 ![progress-bar](https://progress-bar.dev/50/?title=done&width=400)
 
+</summary>
+
 - [X] [933. Number of Recent Calls](./src/queue/933/solution.py)
 <!-- - [ ] Dota2 Senate -->
+
+</details>
+
+<details>
+
+<summary>
 
 ## Linked List (4/4)
 
 ![progress-bar](https://progress-bar.dev/100/?title=done&width=400)
+
+</summary>
 
 - [X] [2095. Delete the Middle Node of a Linked List](./src/linked-list/2095/solution.py)
 - [X] [328. Odd Even Linked List](./src/linked-list/328/solution.py)
 - [X] [206. Reverse Linked List](./src/linked-list/206/solution.py)
 - [X] [2130. Maximum Twin Sum of a Linked List](./src/linked-list/2130/solution.py)
 
+</details>
+
+<details>
+
+<summary>
+
 ## Binary Tree - DFS (6/6)
 
 ![progress-bar](https://progress-bar.dev/100/?title=done&width=400)
+
+</summary>
 
 - [X] [104. Maximum Depth of Binary Tree](./src/binary-tree-dfs/104/solution.py)
 - [X] [872. Leaf-Similar Trees](./src/binary-tree-dfs/872/solution.py)
@@ -98,51 +167,115 @@ Some explanations coming soon.
 - [X] [1372. Longest ZigZag Path in a Binary Tree](./src/binary-tree-dfs/1372/solution.py)
 - [X] [236. Lowest Common Ancestor of a Binary Tree](./src/binary-tree-dfs/236/solution.py)
 
+</details>
+
+<details>
+
+<summary>
+
 ## Binary Tree - BFS (2/2)
 
 ![progress-bar](https://progress-bar.dev/100/?title=done&width=400)
 
+</summary>
+
 - [X] [199. Binary Tree Right Side View](./src/binary-tree-bfs/199/solution.py)
 - [X] [1161. Maximum Level Sum of a Binary Tree](./src/binary-tree-bfs/1161/solution.py)
+
+</details>
+
+<details>
+
+<summary>
 
 ## Binary Search Tree (1/2)
 
 ![progress-bar](https://progress-bar.dev/50/?title=done&width=400)
 
+</summary>
+
 - [X] [700. Search in a Binary Search Tree](./src/binary-search-tree/700/solution.py)
 <!-- - [ ] [450. Delete Node in a BST] -->
+
+</details>
+
+<details>
+
+<summary>
 
 ## Graphs - DFS (1/4)
 
 ![progress-bar](https://progress-bar.dev/25/?title=done&width=400)
 
+</summary>
+
 - [X] [841. Keys and Rooms](./src/graphs-dfs/841/solution.py)
+
+</details>
+
+<details>
+
+<summary>
 
 ## Heap/Priority Queue (2/4)
 
 ![progress-bar](https://progress-bar.dev/50/?title=done&width=400)
 
+</summary>
+
 - [X] [215. Kth Largest Element in an Array](./src/heap-priority-queue/215/solution.py)
 - [X] [2336. Smallest Number in Infinite Set](./src/heap-priority-queue/2336/solution.py)
+
+</details>
+
+<details>
+
+<summary>
 
 ## Binary Search (2/4)
 
 ![progress-bar](https://progress-bar.dev/25/?title=done&width=400)
 
+</summary>
+
 - [X] [374. Guess Number Higher or Lower](./src/binary-search/374/solution.py)
 - [X] [162. Find Peak Element](./src/binary-search/162/solution.py)
 
-## DP - 1D (3/4)
+</details>
 
-![progress-bar](https://progress-bar.dev/75/?title=done&width=400)
+<details>
+
+<summary>
+
+## DP - 1D (4/4)
+
+![progress-bar](https://progress-bar.dev/100/?title=done&width=400)
+
+</summary>
 
 - [X] [1137. N-th Tribonacci Number](./src/dp-1d/1137/solution.py)
 - [X] [746. Min Cost Climbing Stairs](./src/dp-1d/746/solution.py)
 - [X] [198. House Robber](./src/dp-1d/198/solution.py)
+- [X] [790. Domino and Tromino Tiling](./src/dp-1d/790/solution.py)
 
-## Bit Manipulation (2/3)
+</details>
 
-![progress-bar](https://progress-bar.dev/67/?title=done&width=400)
+<details>
+
+<summary>
+
+## Bit Manipulation (3/3)
+
+![progress-bar](https://progress-bar.dev/100/?title=done&width=400)
+
+</summary>
 
 - [X] [338. Counting Bits](./src/bit-manipulation/338/solution.py)
 - [X] [136. Single Number](./src/bit-manipulation/136/solution.py)
+- [X] [1318. Minimum Flips to Make a OR b Equal to c](./src/bit-manipulation/1318/solution.py)
+
+</details>
+
+## Some Resources 📕
+
+- [Python: Working with the bin() Method](https://reintech.io/blog/python-bin-method-tutorial)
