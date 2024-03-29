@@ -7,7 +7,7 @@ Ace Coding Interview with 75 Qs
 My solutions to the 75 LeetCode track. I will be adding more as I solve them.
 Some explanations coming soon.
 
-![progress-bar](https://progress-bar.dev/68/?title=done%20%2851%2F75%29%0A&width=380)
+![progress-bar](https://progress-bar.dev/71/?title=done%20%2853%2F75%29%0A&width=380)
 
 ![Python3](./lib/badges/python.svg)
 ![JavaScript](./lib/badges/js.svg)
@@ -275,6 +275,19 @@ Some explanations coming soon.
 - [X] [1318. Minimum Flips to Make a OR b Equal to c](./src/bit-manipulation/1318/solution.py)
 
 </details>
+
+<details>
+
+<summary>
+
+## Trie (2/2)
+
+![progress-bar](https://progress-bar.dev/100/?title=done&width=400)
+
+</summary>
+
+- [X] [208. Implement Trie (Prefix Tree)](./src/trie/208/solution.py)
+- [X] [1268. Search Suggestions System](./src/trie/1268/solution.py)
 
 ## Some Resources 📕
 
