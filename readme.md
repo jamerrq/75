@@ -7,7 +7,7 @@ Ace Coding Interview with 75 Qs
 My solutions to the 75 LeetCode track. I will be adding more as I solve them.
 Some explanations coming soon.
 
-![progress-bar](https://progress-bar.dev/71/?title=done%20%2853%2F75%29%0A&width=380)
+![progress-bar](https://progress-bar.dev/76/?title=done%20%2857%2F75%29%0A&width=380)
 
 ![Python3](./lib/badges/python.svg)
 ![JavaScript](./lib/badges/js.svg)
@@ -247,6 +247,20 @@ Some explanations coming soon.
 
 <summary>
 
+## Backtracking (1/2)
+
+![progress-bar](https://progress-bar.dev/50/?title=done&width=400)
+
+</summary>
+
+- [X] [17. Letter Combinations of a Phone Number](./src/backtracking/17/solution.py)
+
+</details>
+
+<details>
+
+<summary>
+
 ## DP - 1D (4/4)
 
 ![progress-bar](https://progress-bar.dev/100/?title=done&width=400)
@@ -257,6 +271,20 @@ Some explanations coming soon.
 - [X] [746. Min Cost Climbing Stairs](./src/dp-1d/746/solution.py)
 - [X] [198. House Robber](./src/dp-1d/198/solution.py)
 - [X] [790. Domino and Tromino Tiling](./src/dp-1d/790/solution.py)
+
+</details>
+
+<details>
+
+<summary>
+
+## DP - Multidimensional (1/4)
+
+![progress-bar](https://progress-bar.dev/25/?title=done&width=400)
+
+</summary>
+
+- [X] [62. Unique Paths](./src/dp-multidimensional/62/solution.py)
 
 </details>
 
@@ -289,6 +317,38 @@ Some explanations coming soon.
 - [X] [208. Implement Trie (Prefix Tree)](./src/trie/208/solution.py)
 - [X] [1268. Search Suggestions System](./src/trie/1268/solution.py)
 
+
+</details>
+
+<details>
+
+<summary>
+
+## Intervals (1/2)
+
+![progress-bar](https://progress-bar.dev/50/?title=done&width=400)
+
+</summary>
+
+- [X] [435. Non-overlapping Intervals](./src/intervals/435/solution.py)
+
+</details>
+
+<details>
+
+<summary>
+
+## Monotonic Stack (1/2)
+
+![progress-bar](https://progress-bar.dev/50/?title=done&width=400)
+
+</summary>
+
+- [X] [739. Daily Temperatures](./src/monotonic-stack/739/solution.py)
+
+</details>
+
 ## Some Resources 📕
 
 - [Python: Working with the bin() Method](https://reintech.io/blog/python-bin-method-tutorial)
+- [heapq — Heap queue algorithm](https://docs.python.org/3/library/heapq.html)
