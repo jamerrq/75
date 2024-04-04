@@ -7,7 +7,7 @@ Ace Coding Interview with 75 Qs
 My solutions to the 75 LeetCode track. I will be adding more as I solve them.
 Some explanations coming soon.
 
-![progress-bar](https://progress-bar.dev/76/?title=done%20%2857%2F75%29%0A&width=380)
+![progress-bar](https://progress-bar.dev/79/?title=done%20%2859%2F75%29%0A&width=380)
 
 ![Python3](./lib/badges/python.svg)
 ![JavaScript](./lib/badges/js.svg)
@@ -57,15 +57,15 @@ Some explanations coming soon.
 
 <summary>
 
-## Sliding Window (3/4)
+## Sliding Window (4/4)
 
-![progress-bar](https://progress-bar.dev/75/?title=done&width=400)
+![progress-bar](https://progress-bar.dev/100/?title=done&width=400)
 
 </summary>
 
 - [X] [643. Maximum Average Subarray I](./src/sliding-window/643/solution.py)
 - [X] [1456. Maximum Number of Vowels in a Substring of Given Length](./src/sliding-window/1456/solution.py)
-<!-- - [ ] [1004. Max Consecutive Ones III](./src/sliding-window/1004/solution.py) -->
+- [X] [1004. Max Consecutive Ones III](./src/sliding-window/1004/solution.py)
 - [X] [1493. Longest Subarray of 1's After Deleting One Element](./src/sliding-window/1493/solution.py)
 
 </details>
@@ -122,14 +122,14 @@ Some explanations coming soon.
 
 <summary>
 
-## Queue (1/2)
+## Queue (2/2)
 
-![progress-bar](https://progress-bar.dev/50/?title=done&width=400)
+![progress-bar](https://progress-bar.dev/100/?title=done&width=400)
 
 </summary>
 
 - [X] [933. Number of Recent Calls](./src/queue/933/solution.py)
-<!-- - [ ] Dota2 Senate -->
+- [X] [649. Dota2 Senate](./src/queue/649/solution.py)
 
 </details>
 
