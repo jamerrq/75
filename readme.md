@@ -5,13 +5,13 @@
 Ace Coding Interview with 75 Qs
 
 My solutions to the 75 LeetCode track. I will be adding more as I solve them.
-Some explanations coming soon.
 
-![progress-bar](https://progress-bar.dev/79/?title=done%20%2859%2F75%29%0A&width=380)
+![progress-bar](https://progress-bar.dev/83/?title=done%20%2862%2F75%29%0A&width=380)
 
 ![Python3](./lib/badges/python.svg)
-![JavaScript](./lib/badges/js.svg)
 [![LeetCode](./lib/badges/leetcode.svg)](https://leetcode.com/jamerrq/)
+
+Explore the challenge: https://leetcode.com/studyplan/leetcode-75/
 
 </div>
 
@@ -203,13 +203,14 @@ Some explanations coming soon.
 
 <summary>
 
-## Graphs - DFS (1/4)
+## Graphs - DFS (2/4)
 
-![progress-bar](https://progress-bar.dev/25/?title=done&width=400)
+![progress-bar](https://progress-bar.dev/50/?title=done&width=400)
 
 </summary>
 
 - [X] [841. Keys and Rooms](./src/graphs-dfs/841/solution.py)
+- [X] [547. Number of Provinces](./src/graphs-dfs/547/solution.py)
 
 </details>
 
@@ -234,7 +235,7 @@ Some explanations coming soon.
 
 ## Binary Search (2/4)
 
-![progress-bar](https://progress-bar.dev/25/?title=done&width=400)
+![progress-bar](https://progress-bar.dev/50/?title=done&width=400)
 
 </summary>
 
@@ -278,13 +279,15 @@ Some explanations coming soon.
 
 <summary>
 
-## DP - Multidimensional (1/4)
+## DP - Multidimensional (3/4)
 
-![progress-bar](https://progress-bar.dev/25/?title=done&width=400)
+![progress-bar](https://progress-bar.dev/75/?title=done&width=400)
 
 </summary>
 
 - [X] [62. Unique Paths](./src/dp-multidimensional/62/solution.py)
+- [X] [1143. Longest Common Subsequence](./src/dp-multidimensional/1143/solution.py)
+- [X] [714. Best Time to Buy and Sell Stock with Transaction Fee](./src/dp-multidimensional/714/solution.py)
 
 </details>
 
