@@ -6,7 +6,7 @@ Ace Coding Interview with 75 Qs
 
 My solutions to the 75 LeetCode track. I will be adding more as I solve them.
 
-![progress-bar](https://progress-bar.dev/83/?title=done%20%2862%2F75%29%0A&width=380)
+![progress-bar](https://progress-bar.dev/85/?title=done%20%2864%2F75%29%0A&width=380)
 
 ![Python3](./lib/badges/python.svg)
 [![LeetCode](./lib/badges/leetcode.svg)](https://leetcode.com/jamerrq/)
@@ -233,14 +233,16 @@ Explore the challenge: https://leetcode.com/studyplan/leetcode-75/
 
 <summary>
 
-## Binary Search (2/4)
+## Binary Search (4/4)
 
-![progress-bar](https://progress-bar.dev/50/?title=done&width=400)
+![progress-bar](https://progress-bar.dev/100/?title=done&width=400)
 
 </summary>
 
 - [X] [374. Guess Number Higher or Lower](./src/binary-search/374/solution.py)
+- [X] [2300. Successful Pairs of Spells and Potions](./src/binary-search/2300/solution.py)
 - [X] [162. Find Peak Element](./src/binary-search/162/solution.py)
+- [X] [875. Koko Eating Bananas](./src/binary-search/875/solution.py)
 
 </details>
 
