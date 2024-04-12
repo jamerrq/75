@@ -6,7 +6,7 @@ Ace Coding Interview with 75 Qs
 
 My solutions to the 75 LeetCode track. I will be adding more as I solve them.
 
-![progress-bar](https://progress-bar.dev/85/?title=done%20%2864%2F75%29%0A&width=380)
+![progress-bar](https://progress-bar.dev/88/?title=done%20%2866%2F75%29%0A&width=380)
 
 ![Python3](./lib/badges/python.svg)
 [![LeetCode](./lib/badges/leetcode.svg)](https://leetcode.com/jamerrq/)
@@ -331,11 +331,12 @@ Explore the challenge: https://leetcode.com/studyplan/leetcode-75/
 
 ## Intervals (1/2)
 
-![progress-bar](https://progress-bar.dev/50/?title=done&width=400)
+![progress-bar](https://progress-bar.dev/100/?title=done&width=400)
 
 </summary>
 
 - [X] [435. Non-overlapping Intervals](./src/intervals/435/solution.py)
+- [X] [452. Minimum Number of Arrows to Burst Balloons](./src/intervals/452/solution.py)
 
 </details>
 
@@ -343,13 +344,14 @@ Explore the challenge: https://leetcode.com/studyplan/leetcode-75/
 
 <summary>
 
-## Monotonic Stack (1/2)
+## Monotonic Stack (2/2)
 
-![progress-bar](https://progress-bar.dev/50/?title=done&width=400)
+![progress-bar](https://progress-bar.dev/100/?title=done&width=400)
 
 </summary>
 
 - [X] [739. Daily Temperatures](./src/monotonic-stack/739/solution.py)
+- [X] [901. Online Stock Span](./src/monotonic-stack/901/solution.py)
 
 </details>
 
