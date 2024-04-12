@@ -6,7 +6,7 @@ Ace Coding Interview with 75 Qs
 
 My solutions to the 75 LeetCode track. I will be adding more as I solve them.
 
-![progress-bar](https://progress-bar.dev/88/?title=done%20%2866%2F75%29%0A&width=380)
+![progress-bar](https://progress-bar.dev/91/?title=done%20%2868%2F75%29%0A&width=380)
 
 ![Python3](./lib/badges/python.svg)
 [![LeetCode](./lib/badges/leetcode.svg)](https://leetcode.com/jamerrq/)
@@ -250,13 +250,14 @@ Explore the challenge: https://leetcode.com/studyplan/leetcode-75/
 
 <summary>
 
-## Backtracking (1/2)
+## Backtracking (2/2)
 
-![progress-bar](https://progress-bar.dev/50/?title=done&width=400)
+![progress-bar](https://progress-bar.dev/100/?title=done&width=400)
 
 </summary>
 
 - [X] [17. Letter Combinations of a Phone Number](./src/backtracking/17/solution.py)
+- [X] [216. Combination Sum III](./src/backtracking/216/solution.py)
 
 </details>
 
@@ -281,15 +282,16 @@ Explore the challenge: https://leetcode.com/studyplan/leetcode-75/
 
 <summary>
 
-## DP - Multidimensional (3/4)
+## DP - Multidimensional (4/4)
 
-![progress-bar](https://progress-bar.dev/75/?title=done&width=400)
+![progress-bar](https://progress-bar.dev/100/?title=done&width=400)
 
 </summary>
 
 - [X] [62. Unique Paths](./src/dp-multidimensional/62/solution.py)
 - [X] [1143. Longest Common Subsequence](./src/dp-multidimensional/1143/solution.py)
 - [X] [714. Best Time to Buy and Sell Stock with Transaction Fee](./src/dp-multidimensional/714/solution.py)
+- [X] [72. Edit Distance](./src/dp-multidimensional/72/solution.py)
 
 </details>
 
